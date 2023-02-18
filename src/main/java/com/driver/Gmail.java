@@ -98,3 +98,8 @@ class MAIL{
         this.Message_=Message_;
     }
 }
+class a{
+    a(){
+        System.out.println("0");
+    }
+}
